@@ -1,4 +1,4 @@
-# 🧠 BTTA Project Journal
+# 🧠 Diego BTTA Project Journal
 
 Welcome to my personal blog where I document, reflect on, and share technical insights from real-world projects.  
 This site explores areas like embedded systems, DevOps practices, distributed infrastructure, automation, and data workflows — all grounded in hands-on experimentation.
