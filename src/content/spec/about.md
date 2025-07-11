@@ -1,9 +1,24 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Welcome to **BTTA Project Journal** — a personal technical blog by Diego Bautista.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+This space is dedicated to documenting real-world engineering projects, sharing reflections, and exploring the practical application of DevOps, embedded systems, container orchestration, distributed infrastructure, and IoT-related workflows.
+
+Each post is based on hands-on experimentation with tools like Docker, Linux, NFS, Ansible, and more. The blog complements my [GitHub repositories](https://github.com/DiegoBtta101) by providing the full context behind each build: motivations, architecture, lessons learned, and possible improvements.
+
+> If you're curious about how things are made under the hood — not just what was built — this blog is for you.
+
+::github{repo="DiegoBtta101/btta-project-journal"}
+
+---
+
+### 🚀 Projects explained here are built with:
+- Docker & Docker Swarm
+- Linux systems and networking
+- SSH, Ansible, NFS
+- Python & Bash scripting
+- Astro & Vercel for documentation
+
+---
+
+Feel free to explore the articles or reach out via my [portfolio site](https://diegobtta101.github.io).
