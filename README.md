@@ -58,3 +58,6 @@ Electronic Engineer & DevOps Practitioner
 ## 📜 License
 
 MIT License. See `LICENSE` for details.
+
+
+Diego Btta. Based on Fuwari by Saicaca.
